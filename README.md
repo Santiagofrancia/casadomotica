@@ -55,11 +55,12 @@ ________________________________________________________________________________
 
 ## FUNCIONAMIENTO
 
-El funcionamiento principal del proyecto es una casa domotica con 3 sensores diferenctes: Luz, Distancia, Humedad, este conciste en que te va mostrando la humedad que hay en el ambiente y la misma temperatura dada en grados C°, tiene el codigo para que este te arroje en Kelvin o en Farenheit.
+El funcionamiento principal del proyecto es una casa domótica con 3 sensores diferentes: Luz, Distancia, Humedad, este consiste en que te va mostrando la humedad que hay en el ambiente y la misma temperatura dada en grados C°, tiene el código para que este te arroje en Kelvin o en Fahrenheit.
 
-Ademas de que cuando se acerca un objeto a menos de 10 cm del sensor de distancia, este arroja una señal al buzzer para que empiece a sonar, y un mensaje de Peligro. Cuando verifica que hay mas distancia el mismo buzzer deja de sonar de forma automatica.
+Además de que cuando se acerca un objeto a menos de 10 cm del sensor de distancia, este arroja una señal al buzzer para que empiece a sonar, y un mensaje de Peligro. Cuando verifica que hay más distancia el mismo buzzer deja de sonar de forma automática.
 
-El sensor de luz, controla un led que siempre esta prendido y te arroja un mensaje de "Buenas noches", cuando hay demaciado luz el mensaje cambia a "Buenos Dias" y el led se apaga, ya que la casa no necesita luz adicional, este proceso se envia por la conexion con el ethernet y se autliza de forma automatica cada 5 segundos
+El sensor de luz, controla un led que siempre esta prendido y te arroja un mensaje de "Buenas Noches", cuando hay demasiado luz el mensaje cambia a "Buenos Días" y el led se apaga, ya que la casa no necesita luz adicional, este proceso se envía por la conexión con el ethernet y se utiliza de forma automática cada 5 segundos
+
 ________________________________________________________________________________________
 
 
