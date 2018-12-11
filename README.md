@@ -1,4 +1,4 @@
-# Práctica Sistemas Programables - Casa Domotica 
+# Práctica Sistemas Programables - Casa Domótica 
 ## Equipo: 
 - Ramirez Francia Juan Santiago
 
